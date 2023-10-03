@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyGame/Scenes/StartScene.unity
+    guid: b383611122d890842b1792ff61677632
+  - enabled: 1
+    path: Assets/MyGame/Scenes/ZahlenArten.unity
+    guid: e4607bfae5e43a6499a45a4e4bc0edc9
+  - enabled: 1
+    path: Assets/MyGame/Scenes/Rechner.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/MyGame/Scenes/Primzahl.unity
+    guid: 0798044c7626189488d255bc084fd04e
+  m_configObjects: {}
