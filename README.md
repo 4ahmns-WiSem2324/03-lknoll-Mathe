@@ -1,7 +1,5 @@
 # 03-lknoll-Mathe
 
-#Mathe App
-
 ## Zahlenart erkennen
 In dieser Scene kann eine Zahl über die Input Zeile eingegeben werden und es wird dann angegeben ob es sich um eine Natürliche eine Ganze oder eine Dezimalzahl handelt.
 
