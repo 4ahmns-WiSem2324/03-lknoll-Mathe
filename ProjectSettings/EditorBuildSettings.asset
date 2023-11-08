@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MyGame/Scenes/Primzahl.unity
     guid: 0798044c7626189488d255bc084fd04e
+  - enabled: 1
+    path: Assets/MyGame/Scenes/Teilbarkeit.unity
+    guid: 949e77004e4b13247968ac13ca3decc3
   m_configObjects: {}
