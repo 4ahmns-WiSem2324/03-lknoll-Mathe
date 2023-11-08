@@ -2,10 +2,10 @@
 
 #Mathe App
 
-##Zahlenart erkennen
+## Zahlenart erkennen
 In dieser Scene kann eine Zahl über die Input Zeile eingegeben werden und es wird dann angegeben ob es sich um eine Natürliche eine Ganze oder eine Dezimalzahl handelt.
 
-##Primzahlen
+## Primzahlen
 Hier kann ebenfalls eine Zahl angegeben werden und das Programm sagt ob es sich um eine Primzahl handelt oder nicht.
 
 ## Rechenarten
