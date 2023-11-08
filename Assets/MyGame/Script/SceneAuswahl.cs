@@ -1,21 +1,11 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SceneAuswahl : MonoBehaviour
 {
-    
-    // Start is called before the first frame update
-    void Start()
+    public void Home()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        SceneManager.LoadScene(0);
     }
     public void ZahlenQuiz()
     {
@@ -28,5 +18,9 @@ public class SceneAuswahl : MonoBehaviour
     public void Priemzahlen()
     {
         SceneManager.LoadScene(3);
+    }
+    public void Teilbarkeit()
+    {
+        SceneManager.LoadScene(4);
     }
 }
